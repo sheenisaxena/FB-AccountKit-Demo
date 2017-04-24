@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/dirgha/.android/build-cache/31cafb11863277c226718bd0fb9538ba50460b08/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/dirgha/.android/build-cache/31cafb11863277c226718bd0fb9538ba50460b08/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/dirgha/.android/build-cache/31cafb11863277c226718bd0fb9538ba50460b08/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/dirgha/.android/build-cache/31cafb11863277c226718bd0fb9538ba50460b08/output/res/layout-v21/notification_action_tombstone.xml"
+    }
+]

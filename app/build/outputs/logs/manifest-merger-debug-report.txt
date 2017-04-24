@@ -1,0 +1,211 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-59:12
+	package
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:4:5-46
+		INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:3:5-51
+	xmlns:android
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:7:5-78
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:7:22-76
+application
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:9:5-57:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dirgha/.android/build-cache/fe6e847feddfaaab730ab89069823e8f7370b1db/output/AndroidManifest.xml:9:5-20
+MERGED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:28:5-53:19
+MERGED from [com.android.support:design:24.2.1] /home/dirgha/.android/build-cache/32f65e38a8e7a5d644512bdfdf928f203323e2b4/output/AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:28:5-48:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dirgha/.android/build-cache/31cafb11863277c226718bd0fb9538ba50460b08/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/dirgha/.android/build-cache/31a195c3ea5d72ae8a8227858514d4892ceb90eb/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/dirgha/.android/build-cache/d61d5e9f00129ffc62dc97eccb9fa632b4fecde4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/dirgha/.android/build-cache/877d8174dea77555a2dc4f19f275ded7d3c1bdd4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/dirgha/.android/build-cache/663dd0a0905006a9df3e233cfc2a82d9d0a22e3d/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/dirgha/.android/build-cache/801eb4453690e768f6985046b5aead8b87c92f63/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dirgha/.android/build-cache/cdbb3b1dc6d6b80d60ccd8a543e74f58fbc1809a/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dirgha/.android/build-cache/cdc8b37151d5e85ad2b6e46bbd2b4786748ca394/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.0.0] /home/dirgha/.android/build-cache/a91e287eff78ea358b80335cc8871905742e80bd/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:customtabs:25.0.0] /home/dirgha/.android/build-cache/7a48c011da6bae1a77d286efd2dec18f09d51185/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/dirgha/.android/build-cache/1339a8d3900ed10f64c6da5218335a3566db3855/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.volley:volley:1.0.0] /home/dirgha/.android/build-cache/386256a5237cd5d9893394106842983068467445/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:12:9-41
+	android:supportsRtl
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:14:9-35
+	android:roundIcon
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:13:9-54
+	android:allowBackup
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:10:9-35
+	android:icon
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:11:9-43
+	android:theme
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:15:9-40
+activity#com.example.udacity.surfconnect.LoginActivity
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:17:9-26:20
+	android:screenOrientation
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:19:13-49
+	android:theme
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:20:13-51
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:18:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:24:27-74
+meta-data#com.facebook.accountkit.ApplicationName
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:28:9-30:48
+	android:value
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:30:13-45
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:29:13-67
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:31:9-33:55
+	android:value
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:33:13-52
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:32:13-58
+meta-data#com.facebook.accountkit.ClientToken
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:34:9-36:64
+	android:value
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:36:13-61
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:35:13-63
+activity#com.facebook.accountkit.ui.AccountKitActivity
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:38:9-41:44
+MERGED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:29:9-34:58
+	android:label
+		ADDED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:31:13-65
+	android:launchMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:32:13-43
+	android:windowSoftInputMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:34:13-55
+	android:theme
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:40:13-49
+		REJECTED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:33:13-52
+	tools:replace
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:41:13-42
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:39:13-73
+activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:43:9-50:20
+MERGED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:35:9-38:40
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:37:13-36
+	android:noHistory
+		ADDED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:38:13-37
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:43:19-92
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:44:13-49:29
+action#android.intent.action.VIEW
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:45:17-68
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:45:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:46:17-75
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:46:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:47:17-77
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:47:27-75
+data
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:48:17-74
+	android:scheme
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:48:23-72
+activity#com.example.udacity.surfconnect.AccountActivity
+ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:52:9-55:52
+	android:screenOrientation
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:55:13-49
+	android:label
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:54:13-44
+	android:name
+		ADDED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:53:13-75
+uses-sdk
+INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/dirgha/.android/build-cache/fe6e847feddfaaab730ab89069823e8f7370b1db/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:design:24.2.1] /home/dirgha/.android/build-cache/32f65e38a8e7a5d644512bdfdf928f203323e2b4/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:24.2.1] /home/dirgha/.android/build-cache/69cf168fd0d1988123af031f33ab04dbeb917f4a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/dirgha/.android/build-cache/31cafb11863277c226718bd0fb9538ba50460b08/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/dirgha/.android/build-cache/31a195c3ea5d72ae8a8227858514d4892ceb90eb/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/dirgha/.android/build-cache/d61d5e9f00129ffc62dc97eccb9fa632b4fecde4/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/dirgha/.android/build-cache/877d8174dea77555a2dc4f19f275ded7d3c1bdd4/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/dirgha/.android/build-cache/663dd0a0905006a9df3e233cfc2a82d9d0a22e3d/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/dirgha/.android/build-cache/801eb4453690e768f6985046b5aead8b87c92f63/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dirgha/.android/build-cache/cdbb3b1dc6d6b80d60ccd8a543e74f58fbc1809a/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dirgha/.android/build-cache/cdc8b37151d5e85ad2b6e46bbd2b4786748ca394/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.0.0] /home/dirgha/.android/build-cache/a91e287eff78ea358b80335cc8871905742e80bd/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:customtabs:25.0.0] /home/dirgha/.android/build-cache/7a48c011da6bae1a77d286efd2dec18f09d51185/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:25.3.1] /home/dirgha/.android/build-cache/1339a8d3900ed10f64c6da5218335a3566db3855/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.volley:volley:1.0.0] /home/dirgha/.android/build-cache/386256a5237cd5d9893394106842983068467445/output/AndroidManifest.xml:7:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/dirgha/.android/build-cache/31cafb11863277c226718bd0fb9538ba50460b08/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+provider#com.facebook.accountkit.internal.AccountKitInitProvider
+ADDED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:49:9-52:40
+	android:authorities
+		ADDED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:51:13-76
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.22.0] /home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/AndroidManifest.xml:50:13-83
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:33:19-68
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:44:9-47:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:46:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-android-sdk:4.22.0] /home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/AndroidManifest.xml:45:13-70
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] /home/dirgha/.android/build-cache/31cafb11863277c226718bd0fb9538ba50460b08/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/dirgha/.android/build-cache/31a195c3ea5d72ae8a8227858514d4892ceb90eb/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/dirgha/.android/build-cache/d61d5e9f00129ffc62dc97eccb9fa632b4fecde4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/dirgha/.android/build-cache/877d8174dea77555a2dc4f19f275ded7d3c1bdd4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/dirgha/.android/build-cache/663dd0a0905006a9df3e233cfc2a82d9d0a22e3d/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/dirgha/.android/build-cache/801eb4453690e768f6985046b5aead8b87c92f63/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/dirgha/.android/build-cache/cdbb3b1dc6d6b80d60ccd8a543e74f58fbc1809a/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/dirgha/.android/build-cache/cdc8b37151d5e85ad2b6e46bbd2b4786748ca394/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/dirgha/.android/build-cache/1339a8d3900ed10f64c6da5218335a3566db3855/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/dirgha/.android/build-cache/31cafb11863277c226718bd0fb9538ba50460b08/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] /home/dirgha/.android/build-cache/31cafb11863277c226718bd0fb9538ba50460b08/output/AndroidManifest.xml:26:9-47

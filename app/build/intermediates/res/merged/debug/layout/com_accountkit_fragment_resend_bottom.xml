@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014-present, Facebook, Inc. All rights reserved.
+
+    You are hereby granted a non-exclusive, worldwide, royalty-free license to use,
+    copy, modify, and distribute this software in source code or binary form for use
+    in connection with the web services and APIs provided by Facebook.
+
+    As with any software that integrates with the Facebook platform, your use of
+    this software is subject to the Facebook Developer Principles and Policies
+    [http://developers.facebook.com/policy/]. This copyright notice shall be
+    included in all copies or substantial portions of the software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+    FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+    COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+    IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
+
+<com.facebook.accountkit.ui.ConstrainedLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    style="@style/AccountKit.Container"
+    tools:background="@color/com_accountkit_default_skin_background">
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/com_accountkit_space_medium" />
+
+    <TextView
+        android:id="@+id/com_accountkit_accountkit_verify_number"
+        style="@style/AccountKit.Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/com_accountkit_device"
+        android:drawableStart="@drawable/com_accountkit_device"
+        android:drawablePadding="24dp"
+        android:text="@string/com_accountkit_code_sent_to" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/com_accountkit_space_large" />
+
+    <TextView
+        android:id="@+id/com_accountkit_accountkit_check_sms_box"
+        style="@style/AccountKit.Text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/com_accountkit_check_sms"
+        android:drawableStart="@drawable/com_accountkit_check_sms"
+        android:drawablePadding="16dp"
+        android:text="@string/com_accountkit_resend_check" />
+
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/com_accountkit_space_large" />
+
+    <Button
+        android:id="@+id/com_accountkit_resend_button"
+        style="@style/AccountKit.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/com_accountkit_button_resend_sms" />
+
+    <TextView
+        android:id="@+id/com_accountkit_other_ways_textview"
+        style="@style/AccountKit.TitleText"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/com_accountkit_space_large"
+        android:layout_marginBottom="@dimen/com_accountkit_space_large"
+        android:text="@string/com_accountkit_other_ways_to_get_code"/>
+
+    <Button
+        android:id="@+id/com_accountkit_send_in_fb_button"
+        style="@style/AccountKit.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/com_accountkit_space_large"
+        android:gravity="start"
+        android:drawableLeft="@drawable/com_accountkit_code_fb"
+        android:drawableStart="@drawable/com_accountkit_code_fb"
+        android:textSize="16sp"
+        android:drawablePadding="15dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:text="@string/com_accountkit_button_send_code_in_fb"
+        tools:text="Get a Code on Facebook\nThis is the subtext explaining"/>
+
+    <Button
+        android:id="@+id/com_accountkit_send_in_phone_call"
+        style="@style/AccountKit.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/com_accountkit_space_large"
+        android:gravity="start"
+        android:drawableLeft="@drawable/com_accountkit_get_call"
+        android:drawableStart="@drawable/com_accountkit_get_call"
+        android:textSize="16sp"
+        android:drawablePadding="15dp"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        tools:text="Get a Call\nThis is the subtext explaining" />
+
+</com.facebook.accountkit.ui.ConstrainedLinearLayout>

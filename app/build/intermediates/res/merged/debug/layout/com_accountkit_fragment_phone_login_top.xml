@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+    Copyright (c) 2014-present, Facebook, Inc. All rights reserved.
+
+    You are hereby granted a non-exclusive, worldwide, royalty-free license to use,
+    copy, modify, and distribute this software in source code or binary form for use
+    in connection with the web services and APIs provided by Facebook.
+
+    As with any software that integrates with the Facebook platform, your use of
+    this software is subject to the Facebook Developer Principles and Policies
+    [http://developers.facebook.com/policy/]. This copyright notice shall be
+    included in all copies or substantial portions of the software.
+
+    THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+    IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+    FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+    COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+    IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+    CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+-->
+
+<com.facebook.accountkit.ui.ConstrainedLinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    style="@style/AccountKit.Container"
+    android:layout_marginTop="22dp"
+    tools:ignore="UnusedAttribute"
+    android:layoutDirection="ltr"
+    >
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        >
+        <com.facebook.accountkit.ui.CountryCodeSpinner
+            android:id="@+id/com_accountkit_country_code"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:background="@null"
+            android:textAppearance="?android:attr/textAppearanceLarge"/>
+        <ImageView
+            android:id="@+id/com_accountkit_country_code_image"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/com_accountkit_spinner_triangle"
+            android:paddingStart="40dp"
+            android:paddingLeft="40dp"
+            tools:background="@android:color/holo_red_dark"/>
+        <View
+            android:id="@+id/com_accountkit_country_code_underline"
+            android:layout_width="75dp"
+            android:layout_height="2dp"
+            android:layout_alignParentBottom="true"
+            android:layout_marginBottom="7dp"
+            tools:background="@android:color/holo_blue_dark"
+            android:visibility="gone"
+            tools:visibility="visible"
+            />
+    </RelativeLayout>
+    <Space
+        android:layout_width="@dimen/com_accountkit_input_spacing"
+        android:layout_height="0dp"
+        />
+    <EditText
+        android:id="@+id/com_accountkit_phone_number"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:digits="1234567890"
+        android:ems="10"
+        android:imeOptions="actionNext"
+        android:inputType="number"
+        android:maxLength="21"
+        android:maxLines="1"
+        tools:ignore="TextFields"
+        style="@style/AccountKit.InputText"
+        />
+</com.facebook.accountkit.ui.ConstrainedLinearLayout>

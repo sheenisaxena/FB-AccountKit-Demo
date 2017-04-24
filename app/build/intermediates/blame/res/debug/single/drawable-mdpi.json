@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi/icon_profile_empty.png",
+        "source": "/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/res/drawable-mdpi/icon_profile_empty.png"
+    },
+    {
+        "merged": "/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi/logo_surf_connect.png",
+        "source": "/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/res/drawable-mdpi/logo_surf_connect.png"
+    },
+    {
+        "merged": "/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi/bg_wave.png",
+        "source": "/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/src/main/res/drawable-mdpi/bg_wave.png"
+    }
+]

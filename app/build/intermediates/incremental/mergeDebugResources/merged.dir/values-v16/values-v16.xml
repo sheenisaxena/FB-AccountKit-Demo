@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="notification_right_side_padding_top">4dp</dimen>
+    <style name="AccountKit.AgreementText" parent="Base.AccountKit.AgreementText">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="AccountKit.Button" parent="Base.AccountKit.Button">
+        <item name="android:fontFamily">Roboto-Medium</item>
+    </style>
+    <style name="AccountKit.InputText" parent="Base.AccountKit.InputText">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="AccountKit.Text" parent="Base.AccountKit.Text">
+        <item name="android:fontFamily">sans-serif-light</item>
+    </style>
+    <style name="AccountKit.TitleText" parent="Base.AccountKit.TitleText">
+        <item name="android:fontFamily">Roboto-Light</item>
+    </style>
+</resources>

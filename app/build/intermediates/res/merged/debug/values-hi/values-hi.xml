@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="com_accountkit_phone_country_codes">
+        <item>376:AD:एंडोरा</item>
+        <item>971:AE:संयुक्त अरब अमीरात</item>
+        <item>93:AF:अफ़गानिस्तान</item>
+        <item>1:AG:एंटीगुआ</item>
+        <item>1:AI:एंगुइला</item>
+        <item>355:AL:अल्बानिया</item>
+        <item>374:AM:आर्मेनिया</item>
+        <item>244:AO:अंगोला</item>
+        <item>54:AR:अर्जेंटीना</item>
+        <item>1:AS:अमेरिकन सामोआ</item>
+        <item>43:AT:ऑस्ट्रिया</item>
+        <item>61:AU:ऑस्ट्रेलिया</item>
+        <item>297:AW:अरूबा</item>
+        <item>994:AZ:अज़रबैजान</item>
+        <item>387:BA:बोस्निया और हर्ज़ेगोविना</item>
+        <item>1:BB:बारबाडोस</item>
+        <item>880:BD:बांग्लादेश</item>
+        <item>32:BE:बेल्जियम</item>
+        <item>226:BF:बुर्किना फ़ासो</item>
+        <item>359:BG:बुल्गारिया</item>
+        <item>973:BH:बहरीन</item>
+        <item>257:BI:बुरुंडी</item>
+        <item>229:BJ:बेनिन</item>
+        <item>1:BM:बरमूडा</item>
+        <item>673:BN:ब्रूनेई</item>
+        <item>591:BO:बोलीविया</item>
+        <item>599:BQ:बोनायर, सिंत युस्तॅशियस और साबा</item>
+        <item>55:BR:ब्राज़ील</item>
+        <item>1:BS:बहामाज़</item>
+        <item>975:BT:भूटान</item>
+        <item>267:BW:बोत्सवाना</item>
+        <item>375:BY:बेलारूस</item>
+        <item>501:BZ:बेलीज़</item>
+        <item>1:CA:कनाडा</item>
+        <item>243:CD:कांगो लोकतांत्रिक गणराज्य</item>
+        <item>236:CF:मध्य अफ़्रीकी गणराज्य</item>
+        <item>242:CG:कांगो गणराज्य</item>
+        <item>41:CH:स्विट्ज़रलैंड</item>
+        <item>225:CI:कोट डी\'आइवर</item>
+        <item>682:CK:कुक आइलैंड्स</item>
+        <item>56:CL:चिली</item>
+        <item>237:CM:कैमरून</item>
+        <item>86:CN:चीन</item>
+        <item>57:CO:कोलंबिया</item>
+        <item>506:CR:कोस्टा रिका</item>
+        <item>53:CU:क्यूबा</item>
+        <item>238:CV:केप वर्ड</item>
+        <item>599:CW:कुराकाओ</item>
+        <item>357:CY:साइप्रस</item>
+        <item>420:CZ:चेक गणराज्य</item>
+        <item>49:DE:जर्मनी</item>
+        <item>253:DJ:जिबूती</item>
+        <item>45:DK:डेनमार्क</item>
+        <item>1:DM:डोमिनिका</item>
+        <item>1:DO:डॉमिनिकन गणराज्य</item>
+        <item>213:DZ:अल्जीरिया</item>
+        <item>593:EC:इक्वाडोर</item>
+        <item>372:EE:एस्टोनिया</item>
+        <item>20:EG:मिस्र</item>
+        <item>212:EH:पश्चिमी सहारा</item>
+        <item>291:ER:इरीट्रिया</item>
+        <item>34:ES:स्पेन</item>
+        <item>251:ET:इथियोपिया</item>
+        <item>358:FI:फ़िनलैंड</item>
+        <item>679:FJ:फ़िजी</item>
+        <item>500:FK:फ़ाकलैंड आइलैंड्स</item>
+        <item>691:FM:माइक्रोनेशिया संघीय राज्‍य</item>
+        <item>298:FO:फ़ैरो आइलैंड्स</item>
+        <item>33:FR:फ़्रांस</item>
+        <item>241:GA:गैबन</item>
+        <item>44:GB:युनाइटेड किंगडम</item>
+        <item>1:GD:ग्रेनाडा</item>
+        <item>995:GE:जॉर्जिया</item>
+        <item>594:GF:फ़्रेंच गयाना</item>
+        <item>44:GG:गर्न्सी</item>
+        <item>233:GH:घाना</item>
+        <item>350:GI:जिब्राल्टर</item>
+        <item>299:GL:ग्रीनलैंड</item>
+        <item>220:GM:गाम्बिया</item>
+        <item>224:GN:गिनी</item>
+        <item>590:GP:ग्वाडेलोप</item>
+        <item>240:GQ:इक्वेटोरियल गिनी</item>
+        <item>30:GR:ग्रीस</item>
+        <item>502:GT:ग्वाटेमाला</item>
+        <item>1:GU:गुआम</item>
+        <item>245:GW:गिन्नी-बिसाऊ</item>
+        <item>592:GY:गयाना</item>
+        <item>852:HK:हाँग काँग</item>
+        <item>504:HN:होंडुरास</item>
+        <item>385:HR:क्रोएशिया</item>
+        <item>509:HT:हैती</item>
+        <item>36:HU:हंगरी</item>
+        <item>62:ID:इंडोनेशिया</item>
+        <item>353:IE:आयरलैंड</item>
+        <item>972:IL:इज़राइल</item>
+        <item>44:IM:आइज़ल ऑफ मैन</item>
+        <item>91:IN:भारत</item>
+        <item>246:IO:ब्रिटिश हिंद महासागरीय क्षेत्र</item>
+        <item>964:IQ:इराक</item>
+        <item>98:IR:ईरान</item>
+        <item>354:IS:आइसलैंड</item>
+        <item>39:IT:इटली</item>
+        <item>44:JE:जर्सी</item>
+        <item>1:JM:जमैका</item>
+        <item>962:JO:जॉर्डन</item>
+        <item>81:JP:जापान</item>
+        <item>254:KE:केन्या</item>
+        <item>996:KG:किर्गिस्तान</item>
+        <item>855:KH:कंबोडिया</item>
+        <item>686:KI:किरिबाती</item>
+        <item>269:KM:कोमोरोस</item>
+        <item>1:KN:सेंट किट्स और नेविस</item>
+        <item>850:KP:उत्तर कोरिया</item>
+        <item>82:KR:दक्षिण कोरिया</item>
+        <item>965:KW:कुवैत</item>
+        <item>1:KY:केमैन आइलैंड्स</item>
+        <item>7:KZ:कज़ाखस्तान</item>
+        <item>856:LA:लाओस</item>
+        <item>961:LB:लेबनन</item>
+        <item>1:LC:सेंट लूसिया</item>
+        <item>423:LI:लिचेंस्टीन</item>
+        <item>94:LK:श्रीलंका</item>
+        <item>231:LR:लाइबेरिया</item>
+        <item>266:LS:लेसोथो</item>
+        <item>370:LT:लिथुआनिया</item>
+        <item>352:LU:लक्ज़मबर्ग</item>
+        <item>371:LV:लातविया</item>
+        <item>218:LY:लीबिया</item>
+        <item>212:MA:मोरक्को</item>
+        <item>377:MC:मोनाको</item>
+        <item>373:MD:माल्डोवा</item>
+        <item>382:ME:मॉन्टेनीग्रो</item>
+        <item>261:MG:मेडागास्कर</item>
+        <item>692:MH:मार्शल आइलैंड्स</item>
+        <item>389:MK:मैसिडोनिया</item>
+        <item>223:ML:माली</item>
+        <item>95:MM:म्यांमार</item>
+        <item>976:MN:मंगोलिया</item>
+        <item>853:MO:मकाऊ</item>
+        <item>1:MP:उत्तरी मारियाना आइलैंड्स</item>
+        <item>596:MQ:मार्टिनिक</item>
+        <item>222:MR:मॉरिटानिया</item>
+        <item>1:MS:मॉन्स्टेरॉट</item>
+        <item>356:MT:माल्टा</item>
+        <item>230:MU:मॉरिशस</item>
+        <item>960:MV:मालदीव</item>
+        <item>265:MW:मलावी</item>
+        <item>52:MX:मेक्सिको</item>
+        <item>60:MY:मलेशिया</item>
+        <item>258:MZ:मोज़ाम्बिक</item>
+        <item>264:NA:नामीबिया</item>
+        <item>687:NC:न्यू कैलेडोनिया</item>
+        <item>227:NE:नाइजर</item>
+        <item>672:NF:नॉरफ़ॉक आइलैंड</item>
+        <item>234:NG:नाइजीरिया</item>
+        <item>505:NI:निकारागुआ</item>
+        <item>31:NL:नीदरलैंड्स</item>
+        <item>47:NO:नॉर्वे</item>
+        <item>977:NP:नेपाल</item>
+        <item>674:NR:नॉरू</item>
+        <item>683:NU:नीयू</item>
+        <item>64:NZ:न्यूज़ीलैंड</item>
+        <item>968:OM:ओमान</item>
+        <item>507:PA:पनामा</item>
+        <item>51:PE:पेरू</item>
+        <item>689:PF:फ़्रेंच पॉलिनेशिया</item>
+        <item>675:PG:पापुआ न्यू गिनी</item>
+        <item>63:PH:फ़िलीपींस</item>
+        <item>92:PK:पाकिस्तान</item>
+        <item>48:PL:पोलैंड</item>
+        <item>508:PM:सेंट पियरे और मिकलॉन</item>
+        <item>1:PR:पर्टो रिको</item>
+        <item>970:PS:फ़िलिस्तीन</item>
+        <item>351:PT:पुर्तगाल</item>
+        <item>680:PW:पलाऊ</item>
+        <item>595:PY:पैराग्वे</item>
+        <item>974:QA:कतर</item>
+        <item>262:RE:रीयूनियन</item>
+        <item>40:RO:रोमानिया</item>
+        <item>381:RS:सर्बिया</item>
+        <item>7:RU:रूस</item>
+        <item>250:RW:रवांडा</item>
+        <item>966:SA:सऊदी अरब</item>
+        <item>677:SB:सोलोमन आइलैंड्स</item>
+        <item>248:SC:सेशल्स</item>
+        <item>249:SD:सूडान</item>
+        <item>46:SE:स्वीडन</item>
+        <item>65:SG:सिंगापुर</item>
+        <item>290:SH:सेंट हेलेना</item>
+        <item>386:SI:स्लोवेनिया</item>
+        <item>421:SK:स्लोवाकिया</item>
+        <item>232:SL:सिएरा लिओन</item>
+        <item>378:SM:सैन मैरिनो</item>
+        <item>221:SN:सेनेगल</item>
+        <item>252:SO:सोमालिया</item>
+        <item>597:SR:सूरीनाम</item>
+        <item>211:SS:दक्षिण सूडान</item>
+        <item>239:ST:साओ टोम और प्रिंसिपे</item>
+        <item>503:SV:अल साल्वाडोर</item>
+        <item>1:SX:सिंट मार्टीन</item>
+        <item>963:SY:सीरिया</item>
+        <item>268:SZ:स्वाज़ीलैंड</item>
+        <item>1:TC:तुर्क्स और कैकोज़ आइलैंड्स</item>
+        <item>235:TD:चाड</item>
+        <item>228:TG:टोगो</item>
+        <item>66:TH:थाईलैंड</item>
+        <item>992:TJ:ताज़िकिस्तान</item>
+        <item>690:TK:टोकेलाऊ</item>
+        <item>670:TL:तिमोर-लेस्ते</item>
+        <item>993:TM:तुर्कमेनिस्तान</item>
+        <item>216:TN:ट्यूनीशिया</item>
+        <item>676:TO:टोंगा</item>
+        <item>90:TR:तुर्की</item>
+        <item>1:TT:त्रिनिदाद और टोबैगो</item>
+        <item>688:TV:तुवालु</item>
+        <item>886:TW:ताइवान</item>
+        <item>255:TZ:तंज़ानिया</item>
+        <item>380:UA:यूक्रेन</item>
+        <item>256:UG:यूगांडा</item>
+        <item>1:US:अमेरिका</item>
+        <item>598:UY:उरुग्वे</item>
+        <item>998:UZ:उज़्बेकिस्तान</item>
+        <item>1:VC:सेंट विंसेंट और ग्रेनेडाइंस</item>
+        <item>58:VE:वेनेज़ुएला</item>
+        <item>1:VG:ब्रिटिश वर्जिन आइलैंड्स</item>
+        <item>1:VI:यूएस वर्जिन आइलैंड्स</item>
+        <item>84:VN:वियतनाम</item>
+        <item>678:VU:वनातू</item>
+        <item>681:WF:वॉलिस और फ़्यूचूना</item>
+        <item>685:WS:सामोआ</item>
+        <item>967:YE:यमन</item>
+        <item>262:YT:मायोत्ते</item>
+        <item>27:ZA:दक्षिण अफ़्रीका</item>
+        <item>260:ZM:ज़ाम्बिया</item>
+        <item>263:ZW:ज़िम्बाब्वे</item>
+    </string-array>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"मुख्यपृष्ठ पर नेविगेट करें"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ऊपर नेविगेट करें"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"अधिक विकल्प"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"पूर्ण"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"कोई एप्‍लिकेशन चुनें"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"बंद"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"चालू"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"खोजा जा रहा है…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी साफ़ करें"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"खोज क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ध्वनि खोज"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करें"</string>
+    <string name="com_accountkit_account_verified">खाता सत्यापित!</string>
+    <string name="com_accountkit_button_begin">शुरू करें</string>
+    <string name="com_accountkit_button_cancel">रद्द करें</string>
+    <string name="com_accountkit_button_confirm">पुष्टि करें</string>
+    <string name="com_accountkit_button_continue">जारी रखें</string>
+    <string name="com_accountkit_button_edit">संपादित करें</string>
+    <string name="com_accountkit_button_log_in">लॉग इन करें</string>
+    <string name="com_accountkit_button_next">अगला</string>
+    <string name="com_accountkit_button_ok">ठीक</string>
+    <string name="com_accountkit_button_resend_code_in">%1$d में फिर से SMS भेजें</string>
+    <string name="com_accountkit_button_resend_sms">फिर से SMS भेजें</string>
+    <string name="com_accountkit_button_send">भेजें</string>
+    <string name="com_accountkit_button_send_code_in_call">कॉल प्राप्त करें</string>
+    <string name="com_accountkit_button_send_code_in_call_details">अपना कोड वॉइस कॉल से प्राप्त करें</string>
+    <string name="com_accountkit_button_send_code_in_call_from_facebook_details">Facebook से अपना कोड वॉइस कॉल से पाएँ</string>
+    <string name="com_accountkit_button_send_code_in_fb">Facebook पर कोड प्राप्त करें</string>
+    <string name="com_accountkit_button_send_code_in_fb_details">कोड Facebook सूचना के रूप में मिलेगा</string>
+    <string name="com_accountkit_button_send_code_in_fb_disclosure">Facebook पर नोटिफ़िकेशन के रूप में अपना कोड प्राप्त करने के लिए "Facebook पर कोड पाएँ" पर टैप करें.</string>
+    <string name="com_accountkit_button_start">शुरू करें</string>
+    <string name="com_accountkit_button_start_over">फिर से प्रयास करें</string>
+    <string name="com_accountkit_button_submit">सबमिट करें</string>
+    <string name="com_accountkit_check_email">अपना ईमेल खोलें</string>
+    <string name="com_accountkit_code_sent_to">अपना मोबाइल नंबर सत्यापित करें %1$s</string>
+    <string name="com_accountkit_confirmation_code_agreement">
+        Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a> और &lt;a href="%4$s">कुकी उपयोग&lt;/a> को स्वीकार करने के लिए %1$s टैप करें.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy">
+        Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a>, &lt;a href="%4$s">कुकी उपयोग&lt;/a> और %6$s की &lt;a href="%5$s">गोपनीयता नीति&lt;/a> को स्वीकार करने के लिए %1$s टैप करें.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms">
+        Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a>, &lt;a href="%4$s">कुकी उपयोग&lt;/a> और %7$s की &lt;a href="%5$s">गोपनीयता नीति&lt;/a> और &lt;a href="%6$s">सेवा की शर्तों&lt;/a> को स्वीकार करने के लिए %1$s टैप करें.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_and_terms_instant_verification">
+        Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a>, &lt;a href="%4$s">कुकी उपयोग&lt;/a> और %7$s की &lt;a href="%5$s">गोपनीयता नीति&lt;/a> और &lt;a href="%6$s">सेवा की शर्तों&lt;/a> को स्वीकार करने के लिए %1$s पर टैप करें. इस बारे में &lt;a href="%8$s">और जानें&lt;/a> कि आपका खाता कैसे सत्यापित किया गया था.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_app_privacy_policy_instant_verification">
+        Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a>, &lt;a href="%4$s">कुकी उपयोग&lt;/a> और %6$s की &lt;a href="%5$s">गोपनीयता नीति&lt;/a> को स्वीकार करने के लिए %1$s पर टैप करें. इस बारे में &lt;a href="%7$s">और जानें&lt;/a> कि आपका खाता कैसे सत्यापित किया गया था.
+    </string>
+    <string name="com_accountkit_confirmation_code_agreement_instant_verification">
+        Facebook की &lt;a href="%2$s">शर्तों&lt;/a>, &lt;a href="%3$s">डेटा नीति&lt;/a> और &lt;a href="%4$s">कुकी उपयोग&lt;/a> को स्वीकार करने के लिए %1$s पर टैप करें. इस बारे में &lt;a href="%5$s">और जानें&lt;/a> कि आपका खाता कैसे सत्यापित किया गया था.
+    </string>
+    <string name="com_accountkit_confirmation_code_text">मुझे कोई कोड नहीं मिला</string>
+    <string name="com_accountkit_confirmation_code_title">अपना कोड डालें</string>
+    <string name="com_accountkit_email_invalid">यह ईमेल गलत है. कृपया फिर से कोशिश करें.</string>
+    <string name="com_accountkit_email_loading_title">ईमेल भेजा जा रहा है…</string>
+    <string name="com_accountkit_email_login_retry_title">अपना ईमेल कन्फ़र्म करें</string>
+    <string name="com_accountkit_email_login_text">
+        %2$s के उपयोग में मदद पाने के लिए %1$s टैप करके Facebook द्वारा Account Kit से ईमेल कन्फ़र्मेशन प्राप्त करें. इसका उपयोग करने के लिए आपका Facebook खाता होना आवश्यक नहीं है. &lt;a href="%3$s">जानें कि Facebook आपकी जानकारी का कैसे उपयोग करता है&lt;/a>.
+    </string>
+    <string name="com_accountkit_email_login_title">अपना ईमेल पता डालें</string>
+    <string name="com_accountkit_email_not_received">ईमेल फिर से भेजें</string>
+    <string name="com_accountkit_email_verify_title">ईमेल खोलें और अपना ईमेल कन्फ़र्म करें</string>
+    <string name="com_accountkit_enter_code_sent_to">%1$s पर भेजा गया कोड दर्ज करें</string>
+    <string name="com_accountkit_error_title">एक सिस्टम समस्या हुई. कृपया फिर से कोशिश करें.</string>
+    <string name="com_accountkit_facebook_code_entry_title">Facebook से अपना कोड डालें</string>
+    <string name="com_accountkit_logging_in">लॉग इन हो रहा है…</string>
+    <string name="com_accountkit_other_ways_to_get_code">कोड प्राप्त करने के अन्य तरीके:</string>
+    <string name="com_accountkit_phone_error_title">कृपया, एक मान्य मोबाइल नंबर दर्ज करें.</string>
+    <string name="com_accountkit_phone_loading_title">आपका कोड भेजा जा रहा है…</string>
+    <string name="com_accountkit_phone_login_retry_title">अपना मोबाइल नंबर कन्फ़र्म करें</string>
+    <string name="com_accountkit_phone_login_text">
+      Facebook द्वारा संचालित Account Kit से अपना खाता सत्यापित करने के लिए %1$s पर टैप करें.  Account Kit का उपयोग करने के लिए आपको Facebook खाता नहीं चाहिए.  आपका नंबर सत्यापित करने के लिए एक SMS भेजा जा सकता है. संदेश और डेटा दरें लागू हो सकती हैं. &lt;a href="%2$s">जानें कि Facebook आपकी जानकारी का कैसे उपयोग करता है&lt;/a>.
+    </string>
+    <string name="com_accountkit_phone_login_title">अपना मोबाइल नंबर दर्ज करें</string>
+    <string name="com_accountkit_resend_check">अपना SMS इनबॉक्स देखें</string>
+    <string name="com_accountkit_resend_email_text">नया ईमेल भेजें</string>
+    <string name="com_accountkit_resend_title">अगर आपको कोड प्राप्त नहीं हुआ है तो:</string>
+    <string name="com_accountkit_return_title">आपको वापस %1$s पर ले जाया जा रहा है…</string>
+    <string name="com_accountkit_sent_title">भेज दिया!</string>
+    <string name="com_accountkit_success_title">सत्यापित!</string>
+    <string name="com_accountkit_toolbar_title">%1$s में लॉग इन करें</string>
+    <string name="com_accountkit_verify_confirmation_code_title">
+        हम आपका कोड सत्यापित नहीं कर सके.\nकृपया फिर से कोशिश करें:
+    </string>
+    <string name="com_accountkit_verify_title">आपका कोड सत्यापित किया जा रहा है…</string>
+    <string name="com_accountkit_voice_call_code_entry_title">वॉइस कॉल से अपना कोड दर्ज करें</string>
+    <string name="com_facebook_device_auth_instructions">&lt;b>facebook.com/device&lt;/b> पर जाएँ और ऊपर दिया गया कोड दर्ज करें.</string>
+    <string name="com_facebook_image_download_unknown_error">एक चित्र डाउनलोड करते समय अनपेक्षित गलती हुई.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView लॉग इन के लिए INTERNET अनुमति की आवश्यकता है</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest गलती</string>
+    <string name="com_facebook_like_button_liked">पसंद किया</string>
+    <string name="com_facebook_like_button_not_liked">पसंद करें</string>
+    <string name="com_facebook_loading">लोड हो रहा है…</string>
+    <string name="com_facebook_loginview_cancel_action">रद्द करें</string>
+    <string name="com_facebook_loginview_log_in_button">लॉग इन करें</string>
+    <string name="com_facebook_loginview_log_in_button_continue">Facebook के साथ जारी रखें</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebook से लॉग इन करें</string>
+    <string name="com_facebook_loginview_log_out_action">लॉग आउट</string>
+    <string name="com_facebook_loginview_log_out_button">लॉग आउट</string>
+    <string name="com_facebook_loginview_logged_in_as">इस रूप में लॉग इन किया: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook का उपयोग करके लॉग इन किया हुआ है</string>
+    <string name="com_facebook_send_button_text">भेजें</string>
+    <string name="com_facebook_share_button_text">साझा करें</string>
+    <string name="com_facebook_smart_device_instructions">अपने खाते को कनेक्ट करने के लिए, अपने मोबाइल एप्लिकेशन में Facebook एप्लिकेशन खोलें और सूचनाओं के लिए जाँच करें.</string>
+    <string name="com_facebook_smart_device_instructions_or">- या -</string>
+    <string name="com_facebook_smart_login_confirmation_cancel">आप नहीं हैं?</string>
+    <string name="com_facebook_smart_login_confirmation_title">लॉग इन कन्फ़र्म करें</string>
+    <string name="com_facebook_tooltip_default">आप नियंत्रण में हैं - चुनें कि आप एप्लिकेशन से कौन-सी जानकारी साझा करना चाहते हैं.</string>
+    <string name="messenger_send_button_text">भेजें</string>
+    <string msgid="146198913615257606" name="search_menu_title">"खोज"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+</resources>

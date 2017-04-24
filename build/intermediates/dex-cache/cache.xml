@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-applinks/1.4.0/8ad21bf21784dacce5f2043afb97218cc377e835/bolts-applinks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/bolts-applinks-1.4.0_03dd140c3617854b34bd47d3ffabad9902ab0589.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.android/build-cache/69cf168fd0d1988123af031f33ab04dbeb917f4a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/classes_11551d9fd43103cf7d0b8cbb71633854071a9dd5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpmime/4.5.2/22b4c53dd9b6761024258de8f9240c3dce6ea368/httpmime-4.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="22b4c53dd9b6761024258de8f9240c3dce6ea368">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/httpmime-4.5.2_43873fb20e9bc47515de7fe77585cd9c83250135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.gradle/caches/modules-2/files-2.1/com.googlecode.libphonenumber/libphonenumber/8.4.0/344f5046848bc39ea9968149f22e8f2dcd444d1e/libphonenumber-8.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="344f5046848bc39ea9968149f22e8f2dcd444d1e">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/libphonenumber-8.4.0_d5cbf6b904fddaf32903b9823c8522d65cffef47.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.android/build-cache/7a48c011da6bae1a77d286efd2dec18f09d51185/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="94ba691efc31bf53264db0716d9c9ec03843ea31">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/classes_b6a9e55089ff214f2439a67c1384a7cc3d2d3747.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.android/build-cache/23bd0edc206f83e6cf39ff42b2f07d3612fbb0ae/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="365dffcbaec9d0186865f51802739614a6a66321">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/classes_6bba628b2ed488a706948aa29ce906bd33a48f54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.android/build-cache/32f65e38a8e7a5d644512bdfdf928f203323e2b4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/classes_037275f9f810aa535c8f3f042cd6db759c257715.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_6f7b5592fd538d5eb6e216faea6b080fde67564e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.android/build-cache/2bd6bcf0334d9707e8c04d198ccb4dd462ece6ff/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d94c39080a309d1887f50ef68cc96dfe4bc9d01">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/classes_66bc05d0695effa0186ebb7a3ff870a33c993bf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.android/build-cache/386256a5237cd5d9893394106842983068467445/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2cd4b982617e544728de0782d718a58ce1b06e3f">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/classes_cfdedffe32b60144fc82f6e589c6f63d13727e73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/dirgha/.android/build-cache/a91e287eff78ea358b80335cc8871905742e80bd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8a372c4191f80489770a231f7be4820b204b886a">
+        <dex dex="/home/dirgha/Demo/UdacityExerciseDemo/facebook-account-kit-android-master/lesson2/AccountKitLoginStarterProject/app/build/intermediates/pre-dexed/debug/classes_82e840bd8586147ea253509351e8759b025aca5d.jar" />
+    </item>
+
+</items>
